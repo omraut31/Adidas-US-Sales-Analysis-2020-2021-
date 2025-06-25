@@ -1,6 +1,7 @@
 # 🏆 Adidas US Sales Analysis (2020-2021)
 
-![Adidas Logo](assets/adidas_logo.png)
+![image](https://github.com/user-attachments/assets/52b60816-55a4-4908-ae01-d0d3687738e6)
+
 
 An end-to-end data analytics project that explores **Adidas’ US sales performance for fiscal years 2020-2021**, turning raw transaction data into interactive insights.  
 Built with **Power BI**, **Python (Pandas/NumPy/Matplotlib)**, and **Excel**, the report uncovers trends in revenue, profit, product mix, geography, seasonality, and sales channels.
@@ -62,7 +63,6 @@ Overview Dashboard
 |-------|-------------------|
 | Data wrangling | **Python 3.11**, `pandas`, `numpy` |
 | Visualization | **Power BI** (desktop & service), Bing Maps |
-| Scripting | `matplotlib`, `seaborn` (EDA plots) |
 | Storage | Excel, CSV |
 | Version control | Git, GitHub |
 
@@ -81,10 +81,11 @@ Overview Dashboard
    git clone https://github.com/<omraut31>/adidas-us-sales-analysis.git
    cd adidas-us-sales-analysis
 
-
+  `
+  
    📬 Contact
-Om Raut – www.linkedin.com/in/omraut31 · omsambhajiraut@gmail.com
+   Om Raut – www.linkedin.com/in/omraut31 · omsambhajiraut@gmail.com
 
-Project Link: <https://github.com/<omraut31>/adidas-us-sales-analysis>
+  Project Link: <https://github.com/omraut31/adidas-us-sales-analysis>
 
 
